@@ -1,0 +1,60 @@
+#TS{
+    background:linear-gradient(to bottom right, purple  , white , yellow , blue , pink , orange  ) 
+}
+.MLP {
+list-style: none;
+    position: absolute;
+top: 10px;
+right: 3pt;
+z-index: 10;
+cursor:pointer;
+
+}
+.Sparkle {
+float: left;
+padding-left: 9px;
+padding-right: 9px;
+
+}
+.Sparkle:hover {
+    font-size: 20px;
+
+}
+#TM6 {
+border-radius:90%;
+}
+a:hover {
+font-size: 20px;
+}
+#luna {
+background-color: darkblue;
+color: white;
+
+}
+#RARA {
+background-color:rgb(46, 23, 46) ;
+color: white;
+
+}
+  #MT {
+background-color:rgb(236, 26,194, 1);
+
+  }  
+ #The_CMC {
+    background-color: paleturquoise;
+  }
+  #Starlight_Glimmer {
+background-color:pink;
+
+  }
+  #celestia {
+background-color:whitesmoke;
+
+  }
+  #tsf {
+    background:linear-gradient(to bottom right, purple  , white , yellow , blue , pink , orange  )
+}
+#twilight_time {
+background-color: rgb(236, 26,194, 1);
+
+}
